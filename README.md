@@ -188,8 +188,7 @@ By completing this project, learners can understand:
 * Add password reset and account management features.
 
 ## 👨‍💻 Author
-
-**Your Name**
+**Atri Koley**
 
 Cybersecurity Project – Secure Coding Practices
 

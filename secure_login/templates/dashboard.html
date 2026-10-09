@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Secure Dashboard</title>
+
+    <style>
+
+        body {
+            font-family: Arial;
+            background: #eef2ff;
+            text-align: center;
+            padding-top: 100px;
+        }
+
+        .box {
+            background: white;
+            padding: 40px;
+            margin: auto;
+            width: 400px;
+            border-radius: 15px;
+            box-shadow: 0 5px 20px #aaa;
+        }
+
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background: #dc2626;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<div class="box">
+
+    <h1>Welcome, {{ name }}!</h1>
+
+    <p>
+        You are successfully authenticated.
+    </p>
+
+    <p>
+        This is a protected page.
+    </p>
+
+    <a href="/logout">
+        Logout
+    </a>
+
+</div>
+
+</body>
+</html>

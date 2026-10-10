@@ -86,7 +86,7 @@ SecureCoding_Project/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/Atrikoley-blip/secure_Project
 ```
 
 Replace the URL with your actual GitHub repository URL.
@@ -94,7 +94,7 @@ Replace the URL with your actual GitHub repository URL.
 ### Step 2: Open the Project Directory
 
 ```bash
-cd SecureCoding_Project
+cd secure_Project
 ```
 
 ### Step 3: Create a Virtual Environment
